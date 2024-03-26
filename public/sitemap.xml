@@ -1,0 +1,18 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://qualk.xyz/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://qualk.xyz/contact/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://qualk.xyz/articles/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://qualk.xyz/utilities/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
