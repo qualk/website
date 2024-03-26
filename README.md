@@ -5,7 +5,7 @@
 
 [![Site preview](/public/site-preview.png)](https://qualk.xyz)
 
-Built with [Remix](https://remix.run/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://www.  qualk.xyz) or the [components storybook](https://storybook.qualk.xyz).
+Built with [Remix](https://remix.run/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://www.qualk.xyz) or the [components storybook](https://storybook.qualk.xyz).
 
 ## Install & run
 
