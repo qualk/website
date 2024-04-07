@@ -10,8 +10,6 @@ import remarkMdxFrontmatter from 'remark-mdx-frontmatter';
 import rehypeImgSize from 'rehype-img-size';
 import rehypeSlug from 'rehype-slug';
 import rehypePrism from '@mapbox/rehype-prism';
-import { vercelPreset } from '@vercel/remix/vite';
-
 
 const isStorybook = process.argv[1]?.includes('storybook');
 
@@ -36,7 +34,6 @@ export default defineConfig({
           route('/', 'routes/home/route.js', { index: true });
         });
       },
-      ...vercelPreset()
     }),
     jsconfigPaths(),
   ],
